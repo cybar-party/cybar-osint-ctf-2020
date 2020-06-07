@@ -1,5 +1,5 @@
 # CTF Results
-![Top 10 Users](scoreboard.png)
+![Top 10 Users](scoreboard.PNG)
 
 | Place | Team | Score|
 | ----- |:----:| ----:|
