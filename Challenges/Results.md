@@ -10,6 +10,9 @@
 * ✔ Speedrunner: First team to get 1000 points in the first 1 hour (25 points)
 	* **The Mallows**
 
+* ✔ (Due to a heated crowd-sourced petition demand) Democracy Manifest: Most EPIC google search! (0 points)
+	* **Teh_ROkER**
+
 * ❌ Helping: Any team to submit ANY challenge-breaking bug that we fix. Ouch. (15 point)
 * ❌ Spoiler Alert: Awarded to any team that puts spoilers or hints on #chat (-100 points)
 
