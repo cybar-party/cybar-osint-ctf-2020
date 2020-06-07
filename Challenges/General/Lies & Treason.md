@@ -28,7 +28,9 @@ The TI has left you a voicemail: **"The password hint on the laptop is 'my middl
 ## Solution
 Official: Find the ABN/ACN of the company "CYBAR PROPERTIES PTY LTD". Once found, visit the ASIC register information and purchase the $9 company information record. Lillie Cawthorne's middle name is listed within the document on page 2.
 
-Unofficial: Various other business/corp sites that list this, including one of her book deals.
+Unofficial:
+1) Various other business/corp sites that list this, including one of her book deals.
+2) Her middle name could also be found in the WHOIS data of her website www.themoneyfactory.com.au
 
 ## Intended Tools
 ABN Search
