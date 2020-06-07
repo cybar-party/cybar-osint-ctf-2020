@@ -8,6 +8,12 @@ The [CYBAR OSINT CTF](https://www.cybar.party/osint-ctf) was run for 24 hours st
 ### Prizes
 Huge thanks to our sponsor [Privasec](https://privasec.com/) for sponsoring the event, and allowing us to award the top 5 teams with a AUD1500 total prize pool! 
 
+* 1st place ($800): Knowing and the Known
+* 2nd place ($400): V01DSQUAD
+* 3rd place ($200): cs
+* 4th place ($50): Noroff University College
+* 5th place ($50): CTF_ru
+
 ## [CTF Results](Results.md)
 ## [CTF Achievements](Achievements.md)
 
