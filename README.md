@@ -8,8 +8,8 @@ The [CYBAR OSINT CTF](https://www.cybar.party/osint-ctf) was run for 24 hours st
 ### Prizes
 Huge thanks to our sponsor [Privasec](https://privasec.com/) for sponsoring the event, and allowing us to award the top 5 teams with a AUD1500 total prize pool! 
 
-## CTF Results
-## CTF Achievements
+## [CTF Results](Results.md)
+## [CTF Achievements](Achievements.md)
 
 ## [Official challenge writeups](Challenges)
 
@@ -18,8 +18,6 @@ The CTF was aimed at logic and critical thinking where tooling was not required.
 
 Total points available for this CTF was: 4950
 Additional points were available for fulfilling one of the following achievements.
-
-## [Official achievements](Achievements.md)
 
 ## Credits
 This CTF was created with love by **securitymeta_** and would not have been possible without the following people:
