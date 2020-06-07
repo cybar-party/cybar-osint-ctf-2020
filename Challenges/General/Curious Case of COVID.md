@@ -58,7 +58,7 @@ Video/Image Editing Software
 
 # Community Submissions
 
-## cs
+## Team cs
 
 1. Our team started off by downloading the video because when you tried to pause on the web browser the video would continue to play. 
 
@@ -76,4 +76,8 @@ Video/Image Editing Software
 
 8. And then found Texas 151 as the closest location :). Thanks again for the amazing event, looking forward to any others you guys might do in the future!
 
+![1](https://cdn.discordapp.com/attachments/718806854448316426/719103325752131615/6478268f8ab64935912edcb6b8944110.jpg)
 
+![2](https://cdn.discordapp.com/attachments/718806854448316426/719103380835926046/Screen_Shot_2020-06-07_at_4.15.42_pm.png)
+
+![3](https://cdn.discordapp.com/attachments/718806854448316426/719103494577061918/Screen_Shot_2020-06-06_at_11.47.38_pm_copy.png)
