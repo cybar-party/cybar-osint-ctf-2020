@@ -19,7 +19,7 @@ The CTF was aimed at logic and critical thinking where tooling was not required.
 Total points available for this CTF was: 4950
 Additional points were available for fulfilling one of the following achievements.
 
-## [Official achievements](Achievements)
+## [Official achievements](Achievements.md)
 
 ## Credits
 This CTF was created with love by **securitymeta_** and would not have been possible without the following people:
