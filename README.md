@@ -14,16 +14,16 @@ Huge thanks to our sponsor [Privasec](https://privasec.com/) for sponsoring the 
 * 4th place ($50): Noroff University College
 * 5th place ($50): CTF_ru
 
-## [CTF Results](Results.md)
-## [CTF Achievements](Achievements.md)
+### [CTF Results](Results.md)
+### [CTF Achievements](Achievements.md)
 
 ## [Official challenge writeups](Challenges)
 
 ## CTF Structure
-The CTF was aimed at logic and critical thinking where tooling was not required. For example, most solves were possible with just a browser. The difficulty ranged between EASY - MEDIUM - HARD - VERY DIFFICULT.
+The CTF was designed to be solved with logic and critical thinking with no specialised tooling was required. For example, most solves were possible with just a browser. The difficulty ranged between EASY - MEDIUM - HARD - VERY DIFFICULT.
 
 Total points available for this CTF was: 4950
-Additional points were available for fulfilling one of the following achievements.
+Additional points were available for fulfilling achievements.
 
 ## Credits
 This CTF was created with love by **securitymeta_** and would not have been possible without the following people:
