@@ -10,11 +10,14 @@
 * ✔ Speedrunner: First team to get 1000 points in the first 1 hour (25 points)
 	* **The Mallows**
 
+
 * ✔ (Due to a heated crowd-sourced petition demand) Democracy Manifest: Most EPIC google search! (0 points)
 	* **Teh_ROkER**
 
+
 * ❌ Helping: Any team to submit ANY challenge-breaking bug that we fix. Ouch. (15 point)
 * ❌ Spoiler Alert: Awarded to any team that puts spoilers or hints on #chat (-100 points)
+
 
 * ✔ Sasaeng: First team to complete all "Contact Tracing" challenges (15 points)
 	* **Noroff University College**
@@ -24,6 +27,7 @@
 	* **Royal Emu Artillery**
 * ✔ Somebody Stop Them: First team to solve all challenges in the General category (25 points)
 	* **Knowing and the Known**
+
 
 * ✔ Dancing Like an SSLStripper: First team to solve all challenges (75 points)
 	* **Knowing and the Known**
