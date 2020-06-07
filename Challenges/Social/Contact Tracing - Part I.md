@@ -27,3 +27,5 @@ Flag format: `CYBAR{https://www.x.x/x}`
 Search for her handle/username as shown in the 'location' on her profile in popular art upload accounts. Once DeviantArt is found, the URL is submitted. #DA gives away that art and DA.
 
 ## Files Included
+[Photos](../Files/contact_tracing_1/jpg)
+
