@@ -54,3 +54,26 @@ Video/Image Editing Software
 
 ## Included Files
 [Recorded Video](../Files/curious_case_of_covid.mp4)
+
+
+# Community Submissions
+
+## cs
+
+1. Our team started off by downloading the video because when you tried to pause on the web browser the video would continue to play. 
+
+2. We then went through the frames and found the two most prominent features, a bridge like structure and a white sign. 
+
+3. I started by looking up telephone tower’s and bridges within the Austin, Houston and San Antonio areas. 
+
+4. When this didn’t work I also went down random streets on Google Maps street view to see if I could see anything that resembled the structures in the video. 
+
+5. One of our team members mentioned that it could possibly be an amusement park and not a bridge. 
+
+6. I continued to search for bridges on Google Images and noticed that it would have to be built straight into the ground as it did not have an arch over anything. I googled “On ground bridge San Antonio” which brought up several bridge images and a photo of Steel Eel Seaworld which had a cross in the middle of the rollercoaster frame.
+
+7. Continued to Google “Steel Eel Seaworld” and found that it was situated in San Antonio, I then clicked on nearby streets on Google Maps street view to see if it shared any resemblance to the video. 
+
+8. And then found Texas 151 as the closest location :). Thanks again for the amazing event, looking forward to any others you guys might do in the future!
+
+
