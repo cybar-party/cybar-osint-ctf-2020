@@ -1,3 +1,5 @@
+If you have your own writeups for any of the challenges, please submit a pull request to add your solutions, or link to where you have posted it!
+
 ## Tutorial
 [Tutorial Island](Tutorial%20Island.md)
 
