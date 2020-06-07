@@ -10,6 +10,14 @@ Huge thanks to our sponsor [Privasec](https://privasec.com/) for sponsoring the 
 
 ## [Official challenge writeups](Challenges)
 
+## CTF Structure
+The CTF was aimed at logic and critical thinking where tooling was not required. For example, most solves were possible with just a browser. The difficulty ranged between EASY - MEDIUM - HARD - VERY DIFFICULT.
+
+Total points available for this CTF was: 4950
+Additional points were available for fulfilling one of the following achievements.
+
+## [Official achievements](Achievements)
+
 ## Credits
 This CTF was created with love by **securitymeta_** and would not have been possible without the following people:
 - N33dle
