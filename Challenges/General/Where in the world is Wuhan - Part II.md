@@ -29,7 +29,9 @@ Find the source of the image online, and I'll take care of the rest.
 NOTE: This challenge is marked *manually*. It will state "incorrect", please ignore. PLEASE CONTACT A MOD WITH SCREENSHOT EVIDENCE WITH YOUR SUBMISSION.
 
 ## Solution
+Initially, the player may try look for physical attributes such as the canal, number of bridges, park/cemetry or calm waters entrance to the canal. Some examples may be the city of Punta Arenas in Chile - but they are incorrect.
 
+Conduct searches on the type of image style. Conduct reverse image searches via engines such as Yandex, using small specific snippets of elements in the image. Once found its a generated image by https://probabletrain.itch.io/. This is not a real image, it has been generated.
 
 ## Intended Tools
 Reverse Image Search
