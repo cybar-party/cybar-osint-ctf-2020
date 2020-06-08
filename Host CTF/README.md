@@ -24,7 +24,7 @@ docker run -d -p 8000:8000 ctfd/ctfd:mark-2.3.3
 ![screen_2.PNG](Files/screen_2.PNG)
 
 * Click `Config > Backup > Import > Choose File`
-![screen_3.PNG](Files/screen_1.PNG)
+![screen_3.PNG](Files/screen_3.PNG)
 
 * Download the [CYBAR OSINT CTF EXPORT](CYBAR%20OSINT%20CTF%20EXPORT.zip)
 
