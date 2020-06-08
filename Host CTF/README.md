@@ -8,6 +8,7 @@ Please note that the `By a Thread` challenges will not be solvable, as we are no
 
 ## Start CTFd Container
 * Test that Docker is installed and correctly running
+
 ![screen_1.PNG](Files/screen_1.PNG)
 
 * Start a fresh CTFd container:
@@ -21,9 +22,11 @@ docker run -d -p 8000:8000 ctfd/ctfd:mark-2.3.3
 * Fill in the CTFd setup details with random information (It'll all get overwritten once you import the backup)
 
 * Once you've passed the basic setup screen, click the `Admin Panel` buttom.
+
 ![screen_2.PNG](Files/screen_2.PNG)
 
 * Click `Config > Backup > Import > Choose File`
+
 ![screen_3.PNG](Files/screen_3.PNG)
 
 * Download the [CYBAR OSINT CTF EXPORT](CYBAR%20OSINT%20CTF%20EXPORT.zip)
