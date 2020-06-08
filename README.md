@@ -27,6 +27,11 @@ The CTF was designed to be solved with logic and critical thinking with no speci
 Total points available for this CTF was: 4950
 Additional points were available for fulfilling achievements.
 
+## Hosting Instructions
+If you'd like to host a local copy of the CTF to play through it again, follow the instructions in [Host CTF](Host%20CTF/README.md).
+
+Please note that the `By a Thread` challenges will not be solvable, as we are no longer monitoring the email Inbox.
+
 ## Credits
 This CTF was created with love by **securitymeta_** and would not have been possible without the following people:
 - N33dle
