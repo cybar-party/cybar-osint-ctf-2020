@@ -18,6 +18,8 @@ Huge thanks to our sponsor [Privasec](https://privasec.com/) for sponsoring the 
 ### [CTF Achievements](Achievements.md)
 
 ## [Official challenge writeups](Challenges)
+## Community writeups
+* [Security G33k Blog](https://securityg33k.blogspot.com/2020/06/cybar-osint-ctf-everything-except-two.html?m=1)
 
 ## CTF Structure
 The CTF was designed to be solved with logic and critical thinking with no specialised tooling was required. For example, most solves were possible with just a browser. The difficulty ranged between EASY - MEDIUM - HARD - VERY DIFFICULT.
